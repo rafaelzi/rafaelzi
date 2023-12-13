@@ -15,3 +15,7 @@
   <a href="https://www.linkedin.com/in/rafael-cabral-89281a22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Tecnologias
+<div>
+  <img alt="Python" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
