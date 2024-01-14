@@ -3,7 +3,6 @@
 
 
 - 🔭 Atualmente sou estudante de ADS no UniLavras
-- 🌱 Estou aprendendo Python e próximo semestre Java
 
 ## Contato
 <div> 
