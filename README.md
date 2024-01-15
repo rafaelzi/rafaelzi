@@ -1,8 +1,9 @@
-# Olá, me chamo Rafael 👋.
+# Olá, me chamo Rafael 👋
 
 
 
-- 🔭 Atualmente sou estudante de ADS no UniLavras
+- 👨🏻‍🎓 Estudante Análise e Desenvolvimento de Sistemas no <a href = "https://unilavras.edu.br/">UniLavras</a>
+  - Terceiro período
 
 ## Contato
 <div> 
